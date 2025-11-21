@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me
-Innovative and detail-oriented **Software Development Leader** with 16+ years of experience in architecting, building, and deploying scalable systems for enterprise clients. Skilled in **IoT solutions, cloud infrastructure, and full-stack application development** with a proven track record of leading teams and delivering high-quality, mission-critical solutions.  
+Innovative and detail-oriented **Software Development Leader** with experience in architecting, building, and deploying scalable systems for enterprise clients. Skilled in **IoT solutions, cloud infrastructure, and full-stack application development** with a proven track record of leading teams and delivering high-quality, mission-critical solutions.  
 
 ---
 
