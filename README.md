@@ -17,20 +17,21 @@ Innovative and detail-oriented **Software Development Leader** with experience i
 ---
 
 ## 🧰 Tech Stack
-- **Languages:** Python, PHP, JavaScript, Java, C, C++, VB.NET, Perl  
-- **Databases:** PostgreSQL/PostGIS, MySQL, Oracle, MongoDB, Redis  
-- **Cloud Platforms:** AWS, Azure, Google Cloud  
-- **Tools & Frameworks:** Docker, Kubernetes, Git, Jenkins, RabbitMQ, HAProxy  
-- **Virtualization:** VMware, Proxmox  
+- **Languages:** Python, PHP, GoLang, Rust, JavaScript, Java, C, C++, .NET, Perl  
+- **Databases:** PostgreSQL/PostGIS, MySQL, Oracle, MSSQL, MongoDB, Memcached, Redis, RabbitMQ, Kafka  
+- **Cloud Platforms:** AWS, Azure, Google Cloud, DigitalOcean, Hetzner  
+- **Tools & Frameworks:** Docker, Kubernetes, Git, Jenkins, RabbitMQ, HAProxy, Percona  
+- **Virtualization:** VMware, Hyper-V, Proxmox  
 - **Strengths:** System Architecture, Microservices, IoT, Cloud Infrastructure, Agile Development, AI, Team Leadership  
 
 ---
 
 ## 🏅 Certifications
-- Google AI Essentials  
+- Google AI Essentials
+- Google Prompting Essentials  
 - Microsoft Project Management Fundamentals  
+- Microsoft Certified Technology Specialist 
 - Red Hat Certified System Administrator  
 - VMware Certified Associate
-- Microsoft Certified Technology Specialist 
 
 ---
