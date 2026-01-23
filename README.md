@@ -20,7 +20,7 @@ Innovative and detail-oriented **Software Development Leader** with experience i
 - **Languages:** Python, PHP, GoLang, Rust, JavaScript, Java, C, C++, .NET, Perl  
 - **Databases:** PostgreSQL/PostGIS, MySQL, Oracle, MSSQL, MongoDB, Memcached, Redis, RabbitMQ, Kafka  
 - **Cloud Platforms:** AWS, Azure, Google Cloud, DigitalOcean, Hetzner  
-- **Tools & Frameworks:** Docker, Kubernetes, Git, Jenkins, RabbitMQ, HAProxy, Percona  
+- **Tools & Frameworks:** Docker, Kubernetes, Git, Jenkins, HAProxy, Percona  
 - **Virtualization:** VMware, Hyper-V, Proxmox  
 - **Strengths:** System Architecture, Microservices, IoT, Cloud Infrastructure, Agile Development, AI, Team Leadership  
 
