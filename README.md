@@ -10,7 +10,7 @@ Innovative and detail-oriented **Software Development Leader** with experience i
 ## 💼 Career Highlights
 - 🛰️ **IoT & Real-Time Systems:** Designed transport and fleet tracking platforms managing **10,000+ endpoints** across India, Saudi Arabia, and UAE.  
 - 🌍 **Large-Scale Infrastructure:** Managed **32,000+ servers** globally at **Yahoo!**, ensuring high availability and performance.  
-- 🏟️ **Mega Events Tech:** Delivered dashboards for **FIFA 2022** and **AFC 2023 Qatar**, enabling real-time monitoring of transportation and logistics.  
+- 🏟️ **Mega Events Tech:** Delivered dashboards for **FIFA 2022** and **AFC 2023 Qatar**, enabling real-time monitoring of transportation and logistics. [Success Story: THTC and TomTom](https://www.tomtom.com/customers/thtc-and-tomtom/)  
 - ☁️ **Cloud Transformation:** Migrated enterprise systems to **AWS & Azure**, cutting costs by 20% and improving uptime/scalability.  
 - 🗺️ **GIS Innovation:** Led development of mapping solutions integrating GIS with real-time data streams.  
 
